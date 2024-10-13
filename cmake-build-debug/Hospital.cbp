@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Hospital"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hospital">
+				<Option output="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Hospital" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hospital"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hospital/fast">
+				<Option output="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Hospital" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hospital/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Classes/DateTime.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Classes/DateTime.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Classes/Doctor.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Classes/Doctor.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Classes/Patient.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Classes/Patient.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Repos/DoctorRepo.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Repos/DoctorRepo.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Repos/MedicineRepo.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Repos/MedicineRepo.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Repos/PatientRepo.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Repos/PatientRepo.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Service/DoctorOperations.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Service/DoctorOperations.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Service/PatientOperations.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Service/PatientOperations.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Service/PersonInfo.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Service/PersonInfo.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/UI/Header.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/UI/Header.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Utilities/Global.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Utilities/Global.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Utilities/ParseFunctions.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Utilities/ParseFunctions.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Utilities/StringFunctions.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/Utilities/StringFunctions.h">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/main.cpp">
+			<Option target="Hospital"/>
+		</Unit>
+		<Unit filename="/Users/dariansandru/CLionProjects/Hospital-Management/Hospital/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
